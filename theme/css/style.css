@@ -1,0 +1,9 @@
+label {
+  color: blue;
+  font-weight: bold; }
+
+input {
+  margin-left: 5em; }
+
+.submitBtn {
+  background-color: red; }

@@ -1,0 +1,27 @@
+{
+  "name": "playing-with-javascript",
+  "version": "1.0.0",
+  "description": "Various Javascript exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm-test",
+    "sass": "node-sass -w theme/scss/ -o theme/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aschiXR/playing-with-javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "exercises"
+  ],
+  "author": "aschiXR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aschiXR/playing-with-javascript/issues"
+  },
+  "homepage": "https://github.com/aschiXR/playing-with-javascript#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
