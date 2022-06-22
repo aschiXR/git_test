@@ -4,7 +4,7 @@
   "description": "Various Javascript exercises",
   "main": "index.js",
   "scripts": {
-    "test": "npm-test",
+    "test": "jest",
     "sass": "node-sass -w theme/scss/ -o theme/css/ --recursive"
   },
   "repository": {
@@ -23,5 +23,9 @@
   "homepage": "https://github.com/aschiXR/playing-with-javascript#readme",
   "dependencies": {
     "node-sass": "^7.0.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "typescript": "^4.7.4"
   }
 }

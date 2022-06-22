@@ -1,4 +1,3 @@
 # playing_with_javascript
 
-Readme Foundations Odin
-Hello Odin!
+Readme Full Stack Javascipt exercises
